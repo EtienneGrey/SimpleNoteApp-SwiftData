@@ -103,7 +103,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [https://github.com/etiennegrey/SimpleTaskApp](https://github.com/etiennegrey/SimpleNoteApp-SwiftData)
+Project Link: [https://github.com/etiennegrey/SimpleNoteApp-SwiftData](https://github.com/etiennegrey/SimpleNoteApp-SwiftData)
 
 
 
